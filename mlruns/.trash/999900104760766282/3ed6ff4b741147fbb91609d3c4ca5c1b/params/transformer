@@ -1,0 +1,10 @@
+ColumnTransformer(remainder='passthrough',
+                  transformers=[('OneHot',
+                                 OneHotEncoder(handle_unknown='ignore',
+                                               sparse=False),
+                                 ['NAME_CONTRACT_TYPE', 'CODE_GENDER',
+                                  'FLAG_OWN_CAR', 'NAME_INCOME_TYPE',
+                                  'NAME_EDUCATION_TYPE', 'NAME_FAMILY_STATUS',
+                                  'OCCUPATION_TYPE',
+                                  'WEEKDAY_APPR_PROCESS_START',
+                                  'ORGANIZATION_TYPE'])])

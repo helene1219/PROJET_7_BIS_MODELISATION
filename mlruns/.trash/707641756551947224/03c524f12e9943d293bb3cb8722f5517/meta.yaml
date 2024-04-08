@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/707641756551947224/03c524f12e9943d293bb3cb8722f5517/artifacts
+deleted_time: 1712437729198
+end_time: 1712437612478
+entry_point_name: ''
+experiment_id: '707641756551947224'
+lifecycle_stage: deleted
+run_id: 03c524f12e9943d293bb3cb8722f5517
+run_name: Hyperparametres - LGBM
+run_uuid: 03c524f12e9943d293bb3cb8722f5517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712437465163
+status: 4
+tags: []
+user_id: helen

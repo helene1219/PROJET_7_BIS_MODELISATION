@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/166663443212168724/3206657ae42a418e98c5e440e36a2d9e/artifacts
+end_time: 1712557904858
+entry_point_name: ''
+experiment_id: '166663443212168724'
+lifecycle_stage: active
+run_id: 3206657ae42a418e98c5e440e36a2d9e
+run_name: Modèles (KNN-LogReg-LGBM)
+run_uuid: 3206657ae42a418e98c5e440e36a2d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712557779752
+status: 3
+tags: []
+user_id: helen

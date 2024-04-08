@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/helen/Documents/OPENCLASSROOM/PROJET_7/PROJET_7_BIS_MODELISATION/mlruns/257408993206942288/c2a1e8089a7c4174bd0309e4bba8833c/artifacts
+deleted_time: 1712436039768
+end_time: 1712436012333
+entry_point_name: ''
+experiment_id: '257408993206942288'
+lifecycle_stage: deleted
+run_id: c2a1e8089a7c4174bd0309e4bba8833c
+run_name: Dummy Classifier
+run_uuid: c2a1e8089a7c4174bd0309e4bba8833c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712436012245
+status: 4
+tags: []
+user_id: helen

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/852394134790793228/56cb0ed0549e44838032ee51664c99a6/artifacts
+deleted_time: 1712435926310
+end_time: 1712232447557
+entry_point_name: ''
+experiment_id: '852394134790793228'
+lifecycle_stage: deleted
+run_id: 56cb0ed0549e44838032ee51664c99a6
+run_name: likeable-roo-449
+run_uuid: 56cb0ed0549e44838032ee51664c99a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712232442634
+status: 3
+tags: []
+user_id: helen

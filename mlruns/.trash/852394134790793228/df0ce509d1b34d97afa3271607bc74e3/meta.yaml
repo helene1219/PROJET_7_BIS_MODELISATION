@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/852394134790793228/df0ce509d1b34d97afa3271607bc74e3/artifacts
+deleted_time: 1712435926310
+end_time: 1712258191611
+entry_point_name: ''
+experiment_id: '852394134790793228'
+lifecycle_stage: deleted
+run_id: df0ce509d1b34d97afa3271607bc74e3
+run_name: charming-pig-710
+run_uuid: df0ce509d1b34d97afa3271607bc74e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712258180544
+status: 3
+tags: []
+user_id: helen

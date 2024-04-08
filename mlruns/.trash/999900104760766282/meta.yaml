@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/999900104760766282
+creation_time: 1712439171772
+experiment_id: '999900104760766282'
+last_update_time: 1712557475915
+lifecycle_stage: deleted
+name: Modèles (KNN-LogReg-LGBM)
+tags: {}

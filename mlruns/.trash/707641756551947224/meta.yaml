@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/707641756551947224
+creation_time: 1712437465128
+experiment_id: '707641756551947224'
+last_update_time: 1712437729198
+lifecycle_stage: deleted
+name: Hyperparametres - LGBM
+tags: {}

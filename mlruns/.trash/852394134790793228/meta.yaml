@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/852394134790793228
+creation_time: 1712232439669
+experiment_id: '852394134790793228'
+last_update_time: 1712435926310
+lifecycle_stage: deleted
+name: P7_Scoring
+tags: {}

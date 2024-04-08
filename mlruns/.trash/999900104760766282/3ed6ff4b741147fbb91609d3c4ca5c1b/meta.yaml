@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/999900104760766282/3ed6ff4b741147fbb91609d3c4ca5c1b/artifacts
+deleted_time: 1712557475915
+end_time: 1712439383118
+entry_point_name: ''
+experiment_id: '999900104760766282'
+lifecycle_stage: deleted
+run_id: 3ed6ff4b741147fbb91609d3c4ca5c1b
+run_name: Modèles (KNN-LogReg-LGBM)
+run_uuid: 3ed6ff4b741147fbb91609d3c4ca5c1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712439171819
+status: 3
+tags: []
+user_id: helen

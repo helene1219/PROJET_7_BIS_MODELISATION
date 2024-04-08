@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322572690579944336/a83b0926476a42a39536a9b9b114fc86/artifacts
+end_time: 1712557504174
+entry_point_name: ''
+experiment_id: '322572690579944336'
+lifecycle_stage: active
+run_id: a83b0926476a42a39536a9b9b114fc86
+run_name: Baseline - Dummy Classifier
+run_uuid: a83b0926476a42a39536a9b9b114fc86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712557500095
+status: 4
+tags: []
+user_id: helen

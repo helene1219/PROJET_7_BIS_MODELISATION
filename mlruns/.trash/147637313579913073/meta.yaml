@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/147637313579913073
+creation_time: 1712439112598
+experiment_id: '147637313579913073'
+last_update_time: 1712557479352
+lifecycle_stage: deleted
+name: Baseline - Dummy Classifier
+tags: {}

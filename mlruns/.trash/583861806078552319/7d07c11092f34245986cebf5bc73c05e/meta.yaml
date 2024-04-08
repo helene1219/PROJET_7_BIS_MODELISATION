@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/583861806078552319/7d07c11092f34245986cebf5bc73c05e/artifacts
+deleted_time: 1712437246121
+end_time: 1712437192351
+entry_point_name: ''
+experiment_id: '583861806078552319'
+lifecycle_stage: deleted
+run_id: 7d07c11092f34245986cebf5bc73c05e
+run_name: Hyperparamètres
+run_uuid: 7d07c11092f34245986cebf5bc73c05e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712437043565
+status: 4
+tags: []
+user_id: helen

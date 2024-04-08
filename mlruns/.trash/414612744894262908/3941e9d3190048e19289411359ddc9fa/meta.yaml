@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/414612744894262908/3941e9d3190048e19289411359ddc9fa/artifacts
+deleted_time: 1712439195026
+end_time: 1712438859224
+entry_point_name: ''
+experiment_id: '414612744894262908'
+lifecycle_stage: deleted
+run_id: 3941e9d3190048e19289411359ddc9fa
+run_name: Modèles
+run_uuid: 3941e9d3190048e19289411359ddc9fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712438668968
+status: 3
+tags: []
+user_id: helen
